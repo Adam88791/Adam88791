@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
+<p>I'm Adam, a Frontend Developer from Morocco 🇲🇦, passionate about building clean and responsive web applications. I mainly work with JavaScript and React, and I enjoy turning ideas into real projects, improving UI/UX, and learning new technologies through hands-on practice.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
